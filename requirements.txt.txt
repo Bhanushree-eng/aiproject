@@ -1,3 +1,0 @@
-streamlit
-googletrans==4.0.0cr1
-gTTS
